@@ -1,0 +1,33 @@
+.main { 
+    margin: auto;
+    width: 50%;
+    height: 70%;
+    border: 3px solid green;
+    padding: 10px;
+    justify-content: space-around;
+    text-align: center;
+}
+
+h3 {
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+    border: 3px solid green;
+}
+p {
+    margin: 0;
+    padding: 0;
+    display: inline-block;
+}
+.select {
+    border: 3px solid green;
+    margin: 100000;
+    padding: 1000;
+    overflow: hidden;
+    display:  inline-block;
+}
+
+body {
+    background-color: white;
+}
+
